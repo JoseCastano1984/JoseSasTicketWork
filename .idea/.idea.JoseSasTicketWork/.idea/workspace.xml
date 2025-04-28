@@ -8,15 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29ab6e93-2926-43ef-ad28-98198c0aa568" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/Core/Interfaces/IMigrationService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/Data/Migrations/InitialTicketSchema250425.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/Services/Infrastructure/MigrationHostedService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/Services/Infrastructure/MigrationService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.JoseSasTicketWork/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoseSasTicketWork.sln" beforeDir="false" afterPath="$PROJECT_DIR$/JoseSasTicketWork.sln" afterDir="false" />
-    </list>
+    <list default="true" id="29ab6e93-2926-43ef-ad28-98198c0aa568" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +135,7 @@
       <updated>1745582138203</updated>
       <workItem from="1745582139687" duration="5114000" />
       <workItem from="1745588342630" duration="870000" />
-      <workItem from="1745590869023" duration="5610000" />
+      <workItem from="1745590869023" duration="5745000" />
     </task>
     <servers />
   </component>
